@@ -79,7 +79,7 @@ finally	Used to safely close the Scanner object
 3. Exit
 Enter your choice: 1
 Enter Roll Number: 101
-Enter Student Name: Alice
+Enter Student Name: bob
 Enter marks for subject 1: 85
 Enter marks for subject 2: 92
 Enter marks for subject 3: 88
@@ -92,7 +92,7 @@ Student added successfully. Returning to main menu...
 Enter your choice: 2
 Enter Roll Number to search: 101
 Roll Number: 101
-Student Name: Alice
+Student Name: joe
 Marks: 85 92 88
 Average: 88.33333333333333
 Result: Pass
